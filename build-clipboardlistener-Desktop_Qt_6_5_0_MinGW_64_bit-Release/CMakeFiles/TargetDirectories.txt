@@ -1,0 +1,9 @@
+C:/Code/Python/AskAssist/build-clipboardlistener-Desktop_Qt_6_5_0_MinGW_64_bit-Release/CMakeFiles/clipboardlistener.dir
+C:/Code/Python/AskAssist/build-clipboardlistener-Desktop_Qt_6_5_0_MinGW_64_bit-Release/CMakeFiles/edit_cache.dir
+C:/Code/Python/AskAssist/build-clipboardlistener-Desktop_Qt_6_5_0_MinGW_64_bit-Release/CMakeFiles/rebuild_cache.dir
+C:/Code/Python/AskAssist/build-clipboardlistener-Desktop_Qt_6_5_0_MinGW_64_bit-Release/CMakeFiles/list_install_components.dir
+C:/Code/Python/AskAssist/build-clipboardlistener-Desktop_Qt_6_5_0_MinGW_64_bit-Release/CMakeFiles/install.dir
+C:/Code/Python/AskAssist/build-clipboardlistener-Desktop_Qt_6_5_0_MinGW_64_bit-Release/CMakeFiles/install/local.dir
+C:/Code/Python/AskAssist/build-clipboardlistener-Desktop_Qt_6_5_0_MinGW_64_bit-Release/CMakeFiles/install/strip.dir
+C:/Code/Python/AskAssist/build-clipboardlistener-Desktop_Qt_6_5_0_MinGW_64_bit-Release/CMakeFiles/clipboardlistener_autogen_timestamp_deps.dir
+C:/Code/Python/AskAssist/build-clipboardlistener-Desktop_Qt_6_5_0_MinGW_64_bit-Release/CMakeFiles/clipboardlistener_autogen.dir

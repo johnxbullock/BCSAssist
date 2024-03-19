@@ -1,0 +1,8 @@
+# ninja log v5
+2	183	7325797326073846	clipboardlistener_autogen/timestamp	6df2fe785dabbb6
+2	183	7325797326073846	clipboardlistener_autogen/mocs_compilation.cpp	6df2fe785dabbb6
+2	183	7325797326073846	C:/Code/Python/AskAssist/build-clipboardlistener-Desktop_Qt_6_5_0_MinGW_64_bit-Release/clipboardlistener_autogen/timestamp	6df2fe785dabbb6
+2	183	7325797326073846	C:/Code/Python/AskAssist/build-clipboardlistener-Desktop_Qt_6_5_0_MinGW_64_bit-Release/clipboardlistener_autogen/mocs_compilation.cpp	6df2fe785dabbb6
+184	243	7325797327053308	CMakeFiles/clipboardlistener.dir/clipboardlistener_autogen/mocs_compilation.cpp.obj	dc73d9ebe4341580
+188	4834	7325797372973738	CMakeFiles/clipboardlistener.dir/main.cpp.obj	e74524d36b5e99c4
+4841	5047	7325797375009604	clipboardlistener.exe	18d81c8c0698e2a8
