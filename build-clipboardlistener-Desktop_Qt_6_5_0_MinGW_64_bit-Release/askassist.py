@@ -106,7 +106,7 @@ try:
     print()
 
     # do the process every 1 minute for 4 hours
-    for i in range(3):
+    for i in range(240):
 
         print(f"Iteration {i}")
 
