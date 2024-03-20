@@ -1,5 +1,5 @@
 To set up your environment to run the script, do the following:
-1. Clone the code from the the "Master" branch.
+1. Clone the code from the the "Master" branch (you'll need to use the URL and not the SSH)
 2. Set up a new anaconda environment.
 3. Install pyautogui, pygetwindow and pyperclip into that environment.
 
